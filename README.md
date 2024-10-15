@@ -61,3 +61,5 @@ L'application suit une **architecture MVC** :
   - **RecyclerView** : Affichage dynamique des listes.  
   - **CircleImageView** : Pour afficher des images circulaires.  
 
+ ## Démonstration Vidéo
+[Regarder la démonstration vidéo](https://github.com/MOHAMED-AMINE11/TP2/issues/2)
