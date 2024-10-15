@@ -44,7 +44,10 @@ L'application suit une **architecture MVC** :
    - Splash screen avec rotation, translation et effet de transparence.  
 2. **Gestion de liste avec RecyclerView** :  
    - Liste des stars avec un filtrage dynamique.    
-3. **Affichage circulaire d’images** avec Glide.  
+3. **Affichage circulaire d’images** avec Glide.
+4. **partager un star**.
+5. **Modifier le rating d'un star**
+     
 
 
 ---
