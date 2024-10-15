@@ -3,19 +3,6 @@ Une application Android dynamique qui affiche des stars du football avec des ani
 
 ---
 
-## Table des Matières  
-1. [Introduction](#introduction)  
-2. [Structure du Projet](#structure-du-projet)  
-3. [Architecture de l'Application](#architecture-de-lapplication)  
-4. [Fonctionnalités](#fonctionnalités)  
-5. [Technologies et Bibliothèques](#technologies-et-bibliothèques)   
-6. [Usage](#usage)  
-7. [Conclusion](#conclusion)  
-8. [Détails de l'Adapter](#détails-de-ladapter)  
-9. [Vidéo Démonstrative](#vidéo-démonstrative)  
-
----
-
 ## Introduction  
 L’application **Football_Stars** a été développée pour expérimenter plusieurs fonctionnalités du développement Android : **animations dynamiques**, **RecyclerView** avec filtrage, gestion des **menus**, et utilisation de **bibliothèques externes** comme Glide. Ce projet met également en avant l'architecture MVC, favorisant la séparation des responsabilités entre l'interface utilisateur et la logique métier.  
 
