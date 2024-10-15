@@ -8,12 +8,11 @@ Une application Android dynamique qui affiche des stars du football avec des ani
 2. [Structure du Projet](#structure-du-projet)  
 3. [Architecture de l'Application](#architecture-de-lapplication)  
 4. [Fonctionnalités](#fonctionnalités)  
-5. [Technologies et Bibliothèques](#technologies-et-bibliothèques)  
-6. [Installation](#installation)  
-7. [Usage](#usage)  
-8. [Conclusion](#conclusion)  
-9. [Détails de l'Adapter](#détails-de-ladapter)  
-10. [Vidéo Démonstrative](#vidéo-démonstrative)  
+5. [Technologies et Bibliothèques](#technologies-et-bibliothèques)   
+6. [Usage](#usage)  
+7. [Conclusion](#conclusion)  
+8. [Détails de l'Adapter](#détails-de-ladapter)  
+9. [Vidéo Démonstrative](#vidéo-démonstrative)  
 
 ---
 
