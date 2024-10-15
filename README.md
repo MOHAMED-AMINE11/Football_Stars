@@ -14,10 +14,6 @@ Voici la mise à jour du fichier README.md avec l'ajout d'un lien vers une vidé
 
 markdown
 
-# Football_Stars - Application Android  
-Une application Android dynamique qui affiche des stars du football avec des animations et une gestion interactive de liste.  
-
-
 ---
 
 ## Introduction  
