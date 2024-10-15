@@ -9,19 +9,6 @@ L’application **Football_Stars** a été développée pour expérimenter plusi
 ---
 
 ## Structure du Projet  
-Le projet est organisé comme suit : 
-Voici la mise à jour du fichier README.md avec l'ajout d'un lien vers une vidéo démonstrative de l'application à la fin :
-
-markdown
-
----
-
-## Introduction  
-L’application **Football_Stars** a été développée pour expérimenter plusieurs fonctionnalités du développement Android : **animations dynamiques**, **RecyclerView** avec filtrage, gestion des **menus**, et utilisation de **bibliothèques externes** comme Glide. Ce projet met également en avant l'architecture MVC, favorisant la séparation des responsabilités entre l'interface utilisateur et la logique métier.  
-
----
-
-## Structure du Projet  
 Le projet est organisé comme suit :  
 
 Football_Stars/ │ ├── java/
